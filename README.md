@@ -36,4 +36,4 @@ These are specific to Living Sky School Division's Navision instance, and will p
 
  ## Support scripts
  To help handle or make sense of the results of the queries in this repository
- - [Split a CSV into multiple files by a given column](SupportingScripts/Split-CSV) - Example: You have a file with all schools' data in it, and you want separate files for each school.
+ - [Split a CSV into multiple files by a given column](SupportingScripts/Split-CSV.ps1) - Example: You have a file with all schools' data in it, and you want separate files for each school.
