@@ -32,3 +32,8 @@ These are designed to be run against the MySchoolSask Reporting Database.
 These are specific to Living Sky School Division's Navision instance, and will probably _not_ work for any other Navision.
  - [Extract certificate numbers](LSSD_Navision/certificate_numbers.sql)
  - [Staff Export](LSSD_Navision/staff_export_from_navision.sql)
+
+
+ ## Support scripts
+ To help handle or make sense of the results of the queries in this repository
+ - [Split a CSV into multiple files by a given column](SupportingScripts/Split-CSV) - Example: You have a file with all schools' data in it, and you want separate files for each school.
